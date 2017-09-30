@@ -1,7 +1,7 @@
 # Mage Porob
 ### Warang Citi typeface, cross-platform input tools, Open Educational Resources and Methodologies
 
-Mage Porob is our new open and collaborative project to create arguably the first ever Unicode-compliant and openly-licensed typeface.
+**Mage Porob** is an open and collaborative project that aims at building a multiscript typeface licensed under the Open Font License (OFL) that can will contain glyphs of Warang Citi—a writing system used for the Indian indigenous language Ho, Odia, and Latin. The project will also have an Open Source cross-platform input method, and user manuals and other educational documentations under a CC0 or CC-BY 3.0 license.
 
 ![Warang Citi](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Warang_Citi_characters.gif/140px-Warang_Citi_characters.gif)
 
